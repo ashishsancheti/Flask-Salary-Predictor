@@ -13,6 +13,6 @@ This project has four major parts :
 
 
 # Running the project
-  1. Run "python model.py" in cmd prompt --> This would create a serialized version of our model into a file model.pkl
-  2. Run "python main.py (in seperate termkinal) to start Flask API. By default, flask will run on port 5000.
+  1. Run "python model.py" in terminal --> This would create a serialized version of our model into a file model.pkl
+  2. Run "python main.py (in seperate terminal) to start Flask API. By default, flask will run on port 5000.
   3. Navigate to URL http://localhost:5000
